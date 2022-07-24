@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-*[Vector de gorjeo creado por BiZkettE1](https://www.freepik.es/vectores/gorjeo)*
+<!-- *[Vector de gorjeo creado por BiZkettE1](https://www.freepik.es/vectores/gorjeo)* -->
