@@ -8,7 +8,7 @@ oscabrera.dev@gmail.com
 
 ![LinkedIn](https://raw.githubusercontent.com/Oscabrera/resources/main/link.png) [Oscar Cabrera](https://www.linkedin.com/in/oscar-cabrera-5976aaa1/)
 
-![Instagram](https://raw.githubusercontent.com/Oscabrera/resources/main/insta.png) [oscabrera.dev](https://www.instagram.com/oscabrera.dev/)
+![Instagram](https://raw.githubusercontent.com/Oscabrera/resources/main/insta.png) [oscabrera.dev](https://www.instagram.com/oscabrera.g/)
 
 ![Facebook](https://raw.githubusercontent.com/Oscabrera/resources/main/face.png) [Oscar Cabrera](https://www.facebook.com/profile.php?id=100082885032200)
 
