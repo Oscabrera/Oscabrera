@@ -23,6 +23,7 @@ oscabrera.dev@gmail.com
 ## badgesNew
 
 [![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
+
 [![streak](https://codeium.com/badges/v2/user/oscabrera/streak)](https://codeium.com/profile/oscabrera)
 
 <!---
