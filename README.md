@@ -1,5 +1,9 @@
 # Oscar Cabrera
 
+[![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
+
+[![streak](https://codeium.com/badges/v2/user/oscabrera/streak)](https://codeium.com/profile/oscabrera)
+
 - 👋 Hi, I’m @Oscabrera
 - 👀 I’m interested in Web development, VR, 3D Print and Education
 - 🌱 I’m currently learning react js, ML, Azure, monogodb
@@ -18,13 +22,6 @@ oscabrera.dev@gmail.com
 ![Twitter](https://raw.githubusercontent.com/Oscabrera/resources/main/twitter.png) [oscabrerag](https://twitter.com/oscabrerag)
 
 ![WhatsApp](https://raw.githubusercontent.com/Oscabrera/resources/main/whtas.png) [#...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-## badgesNew
-
-[![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
-
-[![streak](https://codeium.com/badges/v2/user/oscabrera/streak)](https://codeium.com/profile/oscabrera)
 
 <!---
 Oscabrera/Oscabrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
