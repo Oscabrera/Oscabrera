@@ -16,11 +16,13 @@ oscabrera.dev@gmail.com
 
 ![WhatsApp](https://raw.githubusercontent.com/Oscabrera/resources/main/whtas.png) [#...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+
+[![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
+
 <!---
 Oscabrera/Oscabrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
  
  
