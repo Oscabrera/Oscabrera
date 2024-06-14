@@ -42,10 +42,12 @@ Software engineer passionate about quality and project management, with extensiv
 
 ## 📊 GitHub Statistics
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscabrera&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oscabrera&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscabrera&layout=compact&theme=radical)
 
+
+[![Codeium Profile](https://codeium.com/profile/oscabrera/card.png)](https://codeium.com/profile/oscabrera)
 
 <!---
 Oscabrera/Oscabrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
