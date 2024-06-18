@@ -1,9 +1,9 @@
 # Hello, I'm Oscar Cabrera! 👋
 
 [![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
-
+<!---
 [![streak](https://codeium.com/badges/v2/user/oscabrera/streak)](https://codeium.com/profile/oscabrera)
-
+-->
 ![Profile Views](https://komarev.com/ghpvc/?username=Oscabrera&color=blue)
 
 Software engineer passionate about quality and project management, with extensive experience in the development of technological solutions. Specialized in web, desktop and mobile environments, with skills in information security, virtualization and container management.
