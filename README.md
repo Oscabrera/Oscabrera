@@ -6,7 +6,8 @@
 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Oscabrera&color=blue)
 
-Software engineer passionate about quality and project management, with extensive experience in the development of technological solutions. Specialized in web, desktop and mobile environments, with skills in information security, virtualization and container management.
+I am a software engineer driven by a passion for web technologies and a zeal for continuous learning. Known for precision, critical analysis, and meticulous attention to detail, I excel in developing and leading projects that merge technology with educational innovations.
+
 
 ## 🌟 Featured Projects
 
@@ -22,7 +23,7 @@ Software engineer passionate about quality and project management, with extensiv
 
 - **Languages:** PHP, JavaScript, HTML/CSS, SQL
 - **Frameworks:** Laravel, Vue.js, Codeigniter, Electron
-- **Tools:** Git, Docker, Jira, Asana, Proxmox
+- **Tools:** Git, Docker, ClickUp, Asana, Proxmox
 - **Others:** MySQL, MariaDB, SQL Server
 
 ## 📫 Connect with Me
@@ -36,9 +37,6 @@ Software engineer passionate about quality and project management, with extensiv
 ![Facebook](https://raw.githubusercontent.com/Oscabrera/resources/main/face.png) [Oscar Cabrera](https://www.facebook.com/profile.php?id=100082885032200)
 
 ![X](https://raw.githubusercontent.com/Oscabrera/resources/main/twitter.png) [oscabrerag](https://twitter.com/oscabrerag)
-
-![WhatsApp](https://raw.githubusercontent.com/Oscabrera/resources/main/whtas.png) [#...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 
 ## 📊 GitHub Statistics
 
