@@ -1,6 +1,8 @@
 [![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
 ![Profile Views](https://komarev.com/ghpvc/?username=Oscabrera&color=blue)
 
+[![Oscabrera profile views](https://u8views.com/api/v1/github/profiles/19786377/views/day-week-month-total-count.svg)](https://u8views.com/github/Oscabrera)
+
 # Hello, I'm Oscar Cabrera! 👋
 
 <a href="#x">
