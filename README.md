@@ -1,13 +1,13 @@
+[![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
+![Profile Views](https://komarev.com/ghpvc/?username=Oscabrera&color=blue)
+
 # Hello, I'm Oscar Cabrera! 👋
 
 <a href="#x">
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software Developer 👨‍💻" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&random=true&pause=500&duration=700&width=435&lines=Passionate+about+Technology+🚀;Always+Learning+📚;Tech+Innovator+and+Gamer+🎮;Software+Developer+👨‍💻;Zelda+Adventurer+🧝🏰🗡️;Innovative+and+Creative+🎨;One+Piece+Good+Nakama+👒🏴‍☠️☠🍖;MTG+Strategist+☀️💧💀🔥🌳" alt="Typing SVG" /></a>
 </div>
 </a>
-
-[![autocomplete](https://codeium.com/badges/user/oscabrera/autocomplete)](https://codeium.com/profile/oscabrera)
-![Profile Views](https://komarev.com/ghpvc/?username=Oscabrera&color=blue)
 
 I am a software engineer driven by a passion for web technologies and a zeal for continuous learning. Known for precision, critical analysis, and meticulous attention to detail, I excel in developing and leading projects that merge technology with educational innovations.
 
